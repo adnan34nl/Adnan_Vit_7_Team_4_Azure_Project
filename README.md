@@ -112,3 +112,8 @@ In dit gedeelte worden de uitdagingen die tijdens het project zijn ondervonden e
     * Eerst is de `vault-mcuth8jz` Recovery Services Vault succesvol verwijderd.
     * Vervolgens zijn de `adnan_vit_7` resourcegroep en alle resterende resources (sanal machine, depolage account, Recovery Services-kluis, netwerkcomponenten, etc.) binnenin deze groep succesvol verwijderd.
     ![Verwijdering](verwijderen.png)
+
+### **3. LinkedIn Deellink **
+
+[Link naar uw LinkedIn-post Hier]
+
