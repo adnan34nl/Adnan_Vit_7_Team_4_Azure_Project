@@ -115,5 +115,5 @@ In dit gedeelte worden de uitdagingen die tijdens het project zijn ondervonden e
 
 ### **3. LinkedIn Deellink **
 
-[Link naar uw LinkedIn-post Hier]
+https://www.linkedin.com/posts/activity-7349222160516685824-jJUv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO2TJEB8ik2jFp6HrZH3rESjO5ES6h_8uU
 
