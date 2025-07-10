@@ -111,13 +111,3 @@ In dit gedeelte worden de uitdagingen die tijdens het project zijn ondervonden e
     * Eerst is de `vault-mcuth8jz` Recovery Services Vault succesvol verwijderd.
     * Vervolgens zijn de `adnan_vit_7` resourcegroep en alle resterende resources (sanal machine, depolage account, Recovery Services-kluis, netwerkcomponenten, etc.) binnenin deze groep succesvol verwijderd.
     ![Verwijdering](verwijderen.png)
-
-### **3. GitHub Repository Link**
-
-https://github.com/adnan34nl/Adnan_Vit_7_Team_4_Azure_Project/tree/main
-*(Zorg ervoor dat uw repository openbaar is.)*
-
-### **4. LinkedIn Deellink (Optioneel)**
-
-[Link naar uw LinkedIn-post Hier]
-*(Vergeet niet om relevante hashtags zoals #Azure, #VirtueleMachine, #CloudComputing in uw LinkedIn-post te gebruiken en uw docent te taggen.)*
