@@ -88,8 +88,6 @@ In dit gedeelte worden de uitdagingen die tijdens het project zijn ondervonden e
         * Navigeerde naar de "Eigenschappen" (Properties) onder "Beveiligingsinstellingen" (Security Settings) van de Recovery Services Vault.
       
         * De vinkjes bij de opties "Voorlopig verwijderen inschakelen..." (Enable soft delete...) werden verwijderd en de instellingen werden opgeslagen door te klikken op "Bijwerken" (Update). Dit maakte het mogelijk om de back-upitems permanent uit de vault te verwijderen.
-    
-        * (Optioneel: "Onveranderlijke kluis" (Immutable vault) ayarını da kontrol edip gerekirse devre dışı bırakın.)
      
     * **Opschonen van "Back-upitems" (Backup Items):**
         * Navigeerde naar de detailpagina van het `adnanodev` back-upitem binnen de vault.
